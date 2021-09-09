@@ -72,7 +72,10 @@
 @import url(../icons/icomoon.css);
 .no-dec {
   text-decoration: none;
-  color: #8697a8;
+  color: #0f75db;
+}
+.no-dec :hover {
+  text-decoration: none;
 }
 .icon {
   background-size: contain;
